@@ -1,12 +1,14 @@
 {
   "players": [
     {
-      "uuid": "c775be91-e6e2-4b00-8d06-63b2eda104bb",
-      "tier": 4
+        "uuid": "c775be91-e6e2-4b00-8d06-63b2eda104bb",
+        "tier": 4
+        "modid": "mcalecs", "mcalecschanged"
     },
 	{
-		"uuid": "05f2147a-e2b2-41c0-96cc-8156a097f30c",
-		"tier": 4
+        "uuid": "05f2147a-e2b2-41c0-96cc-8156a097f30c",
+    	"tier": 4
+        "modid": "mcalecs", "mcalecschanged"
 	}
   ]
 }
